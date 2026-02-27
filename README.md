@@ -1,4 +1,5 @@
 Overview:
+
 In this study, we perform exploratory data analysis (EDA) on loan application data to identify patterns related to default risk, financing behavior, and application outcomes.
 
 Key Findings:
